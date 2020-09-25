@@ -9,4 +9,4 @@
 
 **Ejecución**
 
-* Al ingresar al programa, le mostrará una pantalla con una imagen y un calificador, el cual puede calificar dando clic en el rabgo que desee.
+* Al ingresar al programa, le mostrará una pantalla con una imagen y un calificador, el cual puede calificar dando clic en el rango que desee.
